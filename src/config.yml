@@ -1,0 +1,13 @@
+messages:
+  entered-combat:
+  - '&cYou have entered combat!'
+  - '&cAll unfair advantages have been disabled/removed.'
+  - '&cIf you log out you will die and your items will be dropped.'
+  depart-combat:
+  - '&cYou have left combat.'
+  command-combat:
+  - '&cYou cannot use commands while in combat!'
+  enderpearl-combat:
+  - '&cYou cannot use enderpearls while in combat!'
+tag-settings:
+  duration-in-seconds: 10
